@@ -1,0 +1,10 @@
+name: PlayerZombie
+version: ${project.version}
+main: com.meows.playerzombie.PlayerZombie
+api-version: 1.21
+commands:
+  playerzombie:
+    description: Перезагрузка конфигурации PlayerZombie
+    usage: /playerzombie reload
+    permission: playerzombie.reload
+    permission-message: "§cУ вас нет прав для выполнения этой команды!"

@@ -1,0 +1,5 @@
+# HUSK или ZOMBIE
+zombie-type: HUSK
+
+# Может ли зомби, появляющийся на месте смерти игрока, подбирать вещи
+zombie-can-pickup-items: false
