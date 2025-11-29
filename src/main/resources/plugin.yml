@@ -2,6 +2,9 @@ name: PlayerZombie
 version: ${project.version}
 main: com.meows.playerzombie.PlayerZombie
 api-version: 1.21
+author: MrMeows
+description: После смерти появляется зомби
+website: https://github.com/MrMe0ws
 commands:
   playerzombie:
     description: Перезагрузка конфигурации PlayerZombie
